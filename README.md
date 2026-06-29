@@ -1,0 +1,1 @@
+Developed a console-based Blackjack game in Python using functions, loops, conditional statements, and randomization. The game follows standard Blackjack rules, allowing players to hit or stand while competing against an automated dealer.
